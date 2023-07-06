@@ -16,9 +16,6 @@ This PowerShell Script will work best on setting the mouse over the inactive win
 
 <br /><br />
 I am not responsible for how you use this! Use this at your own risk!<br />
-Sample Report:<br />
-<IMG SRC="https://github.com/bvoris/Clickyclicky/blob/master/screenshot12.PNG">
-<br />
 
 ## Connect with me at
 
