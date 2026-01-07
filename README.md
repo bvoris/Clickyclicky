@@ -1,13 +1,7 @@
 PowerShell Clickyclicky<br />
 Created By: Brad Voris<br />
 Version: 1.0<br />
-<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/Clickyclicky">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/Clickyclicky">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/Clickyclicky/total">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/Clickyclicky">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/Clickyclicky">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/Clickyclicky">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/Clickyclicky">
+
 <br />
 Overview:<br />
 This PowerShell Script will work best on setting the mouse over the inactive window of the game you want the number of left clicks and running the script in ISE via F5, you may need to change the number of clicks to prevent crashing or hanging of the application.<br />
@@ -24,4 +18,5 @@ I am not responsible for how you use this! Use this at your own risk!<br />
 <BR /> 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
-<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
+
+
